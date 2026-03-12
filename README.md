@@ -1,2 +1,2 @@
-to run this in visual studio code just install live server from the extensions tab.
+To run this in visual studio code just install live server from the extensions tab.
 Right click the html file and click open with live server
